@@ -4,7 +4,7 @@ class DashboardTemperatura
 {
     static void Main()
     {
-                // Definindo os cômodos e horas de leitura
+        // Definindo os cômodos e horas de leitura
         string[] comodos = { "Sala", "Quarto", "Banheiro" };
         int horas = 3;
 
