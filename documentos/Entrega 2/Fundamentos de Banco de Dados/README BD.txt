@@ -122,7 +122,7 @@ Histórico de recompensas recebidas pelos usuários.
 
 > Documentação gerada automaticamente ✨
 
-# **Banco de Dados - Código**
+Banco de Dados - Código
 
 
 CREATE TABLE USUARIO (
