@@ -24,8 +24,6 @@ Nosso projeto é um dashboard inteligente que integra dados urbanos para otimiza
 
 <a href="https://github.com/2025-1-NADS1/A-Projeto12/blob/main/documentos/Entrega%202/Fundamentos%20de%20Banco%20de%20Dados/README%20BD.txt">LINK DOCUMENTAÇÃO BANCO DE DADOS</a>
 
-[download dashboard funcional](https://github.com/user-attachments/files/20261174/dashboard.zip)
-
 
 ## 🛠 Estrutura de pastas
 
